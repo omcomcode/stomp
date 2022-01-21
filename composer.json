@@ -19,7 +19,7 @@
         "php-http/guzzle7-adapter": "^0.1.1",
         "php-http/client-common": "^2.2.1",
         "richardfullmer/rabbitmq-management-api": "^2.1.1",
-        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/guzzle": "^7.2 || ^7.4.1",
         "php-http/discovery": "^1.13"
     },
     "require-dev": {
