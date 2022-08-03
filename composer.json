@@ -26,7 +26,7 @@
         "queue-interop/queue-interop": "^dev-master as 1.0",
         "php-http/guzzle7-adapter": "^1",
         "php-http/client-common": "^2",
-        "richardfullmer/rabbitmq-management-api": "dev-master as 2.1.1",
+        "andrewmy/rabbitmq-management-api": "dev-master as 2.1.1",
         "guzzlehttp/guzzle": "^7.2 || ^7.4.1",
         "php-http/discovery": "^1.13"
     },
