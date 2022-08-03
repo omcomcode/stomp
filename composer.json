@@ -8,7 +8,8 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git@github.com:omcomcode/php-rabbitmq-management-api.git"
+            "url": "git@github.com:omcomcode/php-rabbitmq-management-api.git",
+            "canonical": false
         },
         {
             "type": "vcs",
