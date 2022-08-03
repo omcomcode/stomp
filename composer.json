@@ -13,10 +13,6 @@
         },
         {
             "type": "vcs",
-            "url": "git@github.com:omcomcode/stomp.git"
-        },
-        {
-            "type": "vcs",
             "url": "git@github.com:omcomcode/stomp-php.git"
         }
     ],
